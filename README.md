@@ -1,3 +1,5 @@
+Репозиторий переехал в [Веб-стандарты](https://github.com/web-standards-ru/dictionary/blob/main/font-weights.md)
+
 # Таблица имён насыщенности шрифта
 
 font-weight | RU | ENG
